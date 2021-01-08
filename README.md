@@ -1,4 +1,4 @@
-# This is a website Scrapper for College Website Notifications   
+# This is a website Scrapper for College Website Notifications                                
 
                                             -Made using Python Beautiful Soup
 
